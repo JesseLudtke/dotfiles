@@ -46,7 +46,8 @@ let NERDTreeIgnore=['\.pyc$', '\~$']
 set foldmethod=indent
 set foldlevel=99
 
-colorscheme Tomorrow-Night-Eighties " Color scheme
+" https://github.com/chriskempson/tomorrow-theme
+colorscheme Tomorrow-Night-Eighties
 set background=dark
 syntax on                           " Enable syntax processing
 set tabstop=4                       " Number of visual spaces per TAB
