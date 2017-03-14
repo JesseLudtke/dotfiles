@@ -26,9 +26,6 @@ Bundle 'tpope/vim-fugitive'
 call vundle#end()
 filetype plugin indent on
 
-" Powerline
-set laststatus=2
-
 " Spacebar leader
 let mapleader="\<Space>"
 nnoremap <Leader>w :w<CR>
