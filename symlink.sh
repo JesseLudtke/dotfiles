@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dir=~/dotfiles
+dir="$(dirname "$(realpath $0)")"
 backupdir=~/dotfiles_backup
 files="vimrc"
 
