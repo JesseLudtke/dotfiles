@@ -78,5 +78,11 @@ au BufRead,BufnewFile *.py,*,pyw,*.c,*.h match BadWhitespace /\s\+$/
 
 " Underline misspelled words
 hi clear SpellBad
+hi clear SpellCap
+hi clear SpellRare
+hi clear SpellLocal
 hi SpellBad cterm=underline
+hi SpellCap cterm=underline
+hi SpellRare cterm=underline
+hi SpellLocal cterm=underline
 
