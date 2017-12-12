@@ -1,0 +1,6 @@
+[user]
+	name = Jesse Ludtke
+	email = jludtke@sfu.ca
+[core]
+	editor = vim
+	excludesfile = /home/jesse/.gitignore
