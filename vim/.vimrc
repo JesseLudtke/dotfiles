@@ -34,8 +34,10 @@ set ruler
 set wildmenu
 
 " 4 space tabs.
+set smarttab
 set tabstop=4
 set softtabstop=4
+set shiftwidth=4
 set expandtab
 
 " Line numbers.
