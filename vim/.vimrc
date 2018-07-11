@@ -10,6 +10,7 @@ endif
 
 call plug#begin('~/.vim/plugged')
 Plug 'rust-lang/rust.vim'
+Plug 'elixir-editors/vim-elixir'
 call plug#end()
 
 colorscheme codedark
